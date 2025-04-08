@@ -1,0 +1,17 @@
+# requirements.txt
+pandas
+numpy
+
+streamlit
+tempfile
+requests
+json
+PyPDF2
+
+langchain.text_splitter 
+langchain_community.embeddings 
+angchain_community.vectorstores
+langchain.chains
+langchain_community.llms 
+langchain.callbacks.manager 
+langchain.callbacks.streaming_stdout 
